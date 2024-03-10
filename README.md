@@ -2,7 +2,8 @@
 Using p5.js to create designs based on simple sin and cos functions
 
 ## Using AutoPlaid
-Interactive content can be accessed via [This Github Page](https://dannyplatt.github.io/AutoPlaid/)
+Interactive content can be accessed via [This Github Page.](https://dannyplatt.github.io/AutoPlaid/)
+
 AutoPlaid plays with the properties of [Lissajous curves](https://en.wikipedia.org/wiki/Lissajous_curve)
 Press the arrow keys to change the multiplier within the sin and cos functions:
 ```.js
