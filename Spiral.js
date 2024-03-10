@@ -18,7 +18,7 @@ let x = 10;
 let y = 10;
 let prev = [0,0]
 let i = 0;
-let iConst = 4.131415/2;
+let iConst = 0.3;
 
 let counter = 0;
 let radius = 250;
