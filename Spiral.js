@@ -31,7 +31,7 @@ let transparencyMax = 255;
 let XangleMod = 1;
 let YangleMod = 1;
 
-let marker = [-4,-8];
+let marker = [1,1];
 
 // ==========================================
     
