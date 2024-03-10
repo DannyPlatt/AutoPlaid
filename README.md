@@ -8,7 +8,7 @@ AutoPlaid plays with the properties of [Lissajous curves](https://en.wikipedia.o
 Pressing the arrow keys changes the angleMod modifiers within the sin and cos functions:
 Pressing the spacebar removes drawn content
 
-## Brief Explanation of modifiers
+## Brief Explanation of Modifiers
 At the core of this code is this calculation:
 ```.js
 x = cos(i*XangleMod)* radius;
