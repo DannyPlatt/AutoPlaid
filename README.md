@@ -21,9 +21,9 @@ If `XangleMod = 2` and `YangleMod = 1`, The shape will traveres the horizontal p
 
 These basic Lissajou figures can then be further modified by changing paramaters such as iConst, growthCost, and growth speed. Current designs generated are results of modification to these parameters.
 ```.js
-iConst = 4.131415 / 2
+iConst = 0.3
 growthSpeed = 30
 growthConst = 0.1
 ```
-Why such a specific iConst was chosen escapes me, but choosing iConst values with relation to radians ratios often lead to interesting results 
+Note: Choosing iConst values with relation to radians ratios often lead to interesting results 
 
